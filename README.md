@@ -1,4 +1,4 @@
-STM32F4-Controller Programms
+# STM32F4-Controller Programms
 
 #### AUTHOR:
 
@@ -11,7 +11,8 @@ STM32F4-Controller Programms
 
 
 #### Execution :
-		1) Import project folder into system workbench software.
+		1) Each repository has single project. Import a directory which you want to build and run  
+			into system workbench software.
 		2) Plug-in STM32 controller via usb to pc.
 		3) Run as Ac6 now see output on board as per programs.
 
