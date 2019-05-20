@@ -17,5 +17,5 @@
 
 #### Execution :  
 	 Import project in System workbench and flast on board see output on 
-   USART  after evry timer intrupt message will be printed in screen. 
+	 USART  after evry timer intrupt message will be printed in screen. 
 
